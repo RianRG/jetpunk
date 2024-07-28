@@ -18,7 +18,9 @@ It doesnt work because of these reasons:
 * this game is too old (For example, the restcountries api returns "Porto Rico" as a country, but jetpunk does not recognize it as a country either)
 * on the game, when we type "Trinidad", it automatically recognizes as "Trinidad and Tobago" and we dont need to type the rest of the name. It looks help us a lot, but when we talk about typing the name of all the countries in the world using a BOT, it is a pain in the neck. For example, if the bot types "Trinidad and Tobago", the game will recognize the respective country on "Trinidad" and reset the input (But the bot doesnt know about this and will continue typing "and Tobago", causing some crashes).
 
+My second solution for this project was about to declare an array with all countries (of course, typing them manually) and insert each index of array on input.
 
+That solution one is bad, because we need to update the array every time the game updates. (although this game hasn't been updated in years)
 
 ## Technical Details
 * Typescript
