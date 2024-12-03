@@ -2,8 +2,7 @@
 A bot that completes the game "Países do mundo" from Jetpunk.
 (https://www.jetpunk.com/quizzes/paises-do-mundo)
 
-
-https://github.com/user-attachments/assets/f570606f-37a1-422c-8611-5d39537ac489
+https://github.com/user-attachments/assets/facb45ac-fd59-4f26-b055-df3323779ae1
 
 
 ## Description
